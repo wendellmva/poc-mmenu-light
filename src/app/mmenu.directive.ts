@@ -1,5 +1,5 @@
 import { Directive, ElementRef, OnInit } from '@angular/core';
-import * as MmenuLight from 'mmenu-light';
+import { MmenuLight } from 'mmenu-light';
 
 @Directive({
   selector: '[appMmenu]'
